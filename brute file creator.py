@@ -1,7 +1,6 @@
 ####################################################################################################################
 '''
-You can Read about every single detail in depth on https://rsajal.medium.com
-Link to Github - https://github.com/r-sajal/Ethical-Hacking
+Link to Github - https://github.com/iamrexedits/script-for-pydroid
 '''
 ####################################################################################################################
 
@@ -45,4 +44,5 @@ end_time = time.time()
 
 print(end_time-start_time) # print the total time for operation 
 
-##### Code by Sajal Rastogi
+##### Code by Rex
+
